@@ -1,0 +1,9 @@
+<p> 
+{% for status in statuses|slice:":10" %}
+<p> ...</p>
+    {{status.text}} 
+    <br/>
+    date {{status.created_at}}
+    <p> ...</p>
+{%endfor%}
+<p>
