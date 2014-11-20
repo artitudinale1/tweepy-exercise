@@ -1,7 +1,4 @@
-tweepy-exercise
-===============
 
-Print my last 10 tweets using Tweepy plugin -Django/Phyton 
 #<b>Exercise with Django and Tweetpy plugin</p>.#
 
 ##<b>BRIEF/BACKGOUND PROJECT</b>##
