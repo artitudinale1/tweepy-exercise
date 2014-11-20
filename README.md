@@ -55,3 +55,4 @@ HTML5, Django 1.6.1, tweepy 2.1, wsgiref 0.1.2
  - Add CSS , formatting and style
  - Add more functionality to create an Hook App for Django CMS (maybe updating Django as well :-/)
    
+<b>PLESE IF YOU EXPERIMENT ANY BUGS/ERRORS/PROBLEMS TESTiNG OR CHECKING OUT THIS PROJECT</b> report it though GITHUB or @ alex.garulli@gmail.com
