@@ -51,8 +51,10 @@ HTML5, Django 1.6.1, tweepy 2.1, wsgiref 0.1.2
 ##<b>FUTURE IMPROVEMENT</b>##
 <i>Those are bugs to fix and some ideas to improve the project</i>
 
- - It has been deploy to Digital Ocean but not with the pest pactice in fact is running though
+ - It has been deploy to Digital Ocean but not with the best pactice in fact is running though
+ 
         python manage.py runserver  0.0.0.0:80
+
     I should run a server with uwsgi or gunicron
  - Add CSS , formatting and style
  - Add more functionality to create an Hook App for Django CMS (maybe updating Django as well :-/)
