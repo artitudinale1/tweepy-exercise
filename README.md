@@ -1,7 +1,7 @@
 
 #<b>Exercise with Django and Tweetpy plugin</p>.#
 
-##<b>BRIEF/BACKGOUND PROJECT</b>##
+##<b>BRIEF/BACKGROUND PROJECT</b>##
 
 When I was about to develop the re-branding website for JPC (Creative Company), we were looking to building a Django CMS app 
 displaying company Tweets. From there we will creating other kind of CMS app based on Twiteer API.
